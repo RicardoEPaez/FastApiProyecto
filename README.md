@@ -1,0 +1,3 @@
+Este es un proyecto web desarrollado con FastAPI que gestiona datos desde un archivo CSV. 
+
+Para ejecutarlo localmente, clona este repositorio, crea y activa tu entorno virtual (`python -m venv fastapi-env`), instala las dependencias necesarias ejecutando `pip install -r requirements.txt` en tu terminal, y finalmente enciende el servidor de desarrollo con el comando `uvicorn main:app --reload` para acceder a la aplicación.
